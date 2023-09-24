@@ -37,3 +37,6 @@ _Билет_  QR-код c уникальным кодом бронировани
 2. CSS
 3. Java Script
 4. GIT
+
+## Ссылка на проект
+ https://killakode.github.io/diplom_netology/
